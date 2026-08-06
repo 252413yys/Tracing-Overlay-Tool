@@ -13,5 +13,4 @@ Python+Win32 API +Ai/deepseek实现的悬浮参考图工具，完美支持 PNG �
 
 ## 系统与依赖
 仅支持 Windows
-```bash
-pip install pillow
+
