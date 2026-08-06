@@ -2,8 +2,8 @@
 Windows 桌面悬浮透明图片工具
 
 ## 简介
-Python+Win32 API 实现的悬浮参考图工具，完美支持 PNG 透明通道，适合画画参考、游戏攻略对照。
-
+Python+Win32 API +Ai/deepseek实现的悬浮参考图工具，完美支持 PNG 透明通道，适应于绘画
+https://github.com/user-attachments/assets/be4d8adc-eeb4-490b-9f2d-f78a68ba98bc
 ## 功能
 - 多图片同时悬浮，自由拖动
 - 缩放1%-150%、调节透明度
