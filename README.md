@@ -1,7 +1,7 @@
 
 Windows 桌面悬浮透明图片工具
 ## 简介
-Python+Win32 API+Ai/deepseek实现的悬浮参考图工具，支持 PNG 透明通道，适应于绘画描图、对照参考等场景。
+Windows 桌面悬浮透明图片工具Python+Win32 API+Ai/deepseek实现的悬浮参考图工具，支持 PNG 透明通道
 
 ## 界面预览
 <img width="416" height="350" alt="12" src="https://github.com/user-attachments/assets/99fecdb8-ae49-43c9-9822-dec7dfe74e70" />
